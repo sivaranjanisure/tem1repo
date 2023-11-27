@@ -1,0 +1,17 @@
+.header {
+  color: white;
+
+  font-size: xx-large;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header1 {
+  color: white;
+  font-size: large;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 700px;
+}
