@@ -1,0 +1,12 @@
+.ser {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.c1 {
+  color: black;
+}
+.c2 {
+  color: skyblue;
+}
